@@ -1,6 +1,7 @@
 # OSC-Blender-Link2VRC
 
 A highly customizable real-time OSC bridge addon for Blender,
+
 connecting Blender with VRChat or any OSC-enabled application!
 
 ## Designed For
@@ -18,3 +19,5 @@ connecting Blender with VRChat or any OSC-enabled application!
 ## 🚧 Work in Progress (W.I.P.)
 
 This project is currently under active development!
+
+Progress: 35%
