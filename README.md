@@ -5,8 +5,8 @@ connecting Blender with VRChat or any OSC-enabled application!
 
 ## Designed For
 
-- Receive OSC data into Blender and keyframes in realtime
-- Sending Blender data to OSC application in realtime
+- Receive OSC data into Blender and keyframes in real-time
+- Sending Blender data to OSC application in real-time
 
 ## Example Use Cases
 
