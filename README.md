@@ -20,6 +20,23 @@ connecting Blender with VRChat or any OSC-enabled application!
 
 This project is currently under active development!
 
-Progress: 35%
+Progress: 50%
 
-![GitHub Logo](https://github.com/Coffee-tea-233/OSC-Blender-Link2VRC/blob/21c1227886e41a2a93f5a60de0e956ea37ede1b3/doc/Image/camera-test_20260316-0500.gif)
+
+
+# 🛠️Gallery
+
+**Some W.I.P. Previews**
+
+
+
+## OSC Data Sync Example
+
+![TEST GIF](https://github.com/Coffee-tea-233/OSC-Blender-Link2VRC/blob/main/doc/Image/camera-test_20260316-0500.gif)
+
+
+
+## UI Example
+
+![UI](https://github.com/Coffee-tea-233/OSC-Blender-Link2VRC/blob/main/doc/Image/osc-ui%202026-04-16%20024317.png)
+
